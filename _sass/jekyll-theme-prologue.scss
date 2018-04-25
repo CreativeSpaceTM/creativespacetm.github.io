@@ -60,6 +60,18 @@
 
 /* Basic */
 
+	a.left {
+		float: left;
+		margin: 0 2em 2em 0;
+		border-bottom: none !important;
+	}
+
+	a.right {
+		float: right;
+		margin: 0 0 2em 2em;
+		border-bottom: none !important;
+	}
+
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
@@ -617,7 +629,11 @@
 	#main {
 		margin-left: 375px;
 		> section {
-			text-align: center;
+
+			& header,
+			& footer, {
+				text-align: center;
+			}
 		}
 		> article {
 			text-align: left;
