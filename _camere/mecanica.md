@@ -4,8 +4,8 @@ icon: fa-cogs
 order: 2
 ---
 
-În această camera se lucră la proiectele care fac mai mulă mizerie și/sau zgomot. Proiectele de mecanica, debitare,
-alezare, sudura, etc sunt potrivite pentru această cameră.
+Aici se lucră la proiectele care fac mai multă mizerie și/sau zgomot. Proiectele de mecanică, debitare,
+alezare, sudură, etc sunt potrivite pentru această cameră.
 
 <div class="roomPicture">
 	<a href="{{- 'assets/images/camere/mecanica.jpg' | relative_url -}}" data-lightbox="camere">
