@@ -6,4 +6,5 @@ layout: home
 title: Prima Pagină
 icon: fa-home
 order: 1
+description: "Te așteptăm la noul makerspace din Timișoara unde ai access la 3D Priter, laser cutter, CNC, strung și multe altele"
 ---
