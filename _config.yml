@@ -4,7 +4,7 @@ author: Creative Space
 email:
 avatar: assets/images/avatar.jpg
 
-baseurl: "/" 
+baseurl: "/"
 url: "http://creativespace.ro"
 
 # Social settings
@@ -15,7 +15,7 @@ instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url: https://creativespacetm.slack.com/join/shared_invite/enQtMjk5NjcwOTkwODMzLWI2NDVhNDhjNDk5YTU1MDA0YzEwODYwOTc5NTI5ZDhmOTU5NmJkNjQ5NTgzMmY2NzEwZTIzMmM1NWZmMmFkZmE
-twitter_url:
+twitter_url: https://twitter.com/CreativeSpaceTM
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-19732240-5
